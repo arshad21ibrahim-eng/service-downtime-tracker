@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:5000/api";
+const API_BASE = "https://service-downtime-tracker.onrender.com/api";
 
 export const api = {
   // Report new outage
